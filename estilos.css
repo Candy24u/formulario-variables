@@ -1,0 +1,11 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+button{
+  text-decoration: white;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 2cm;
+  align-items: left;
+}
